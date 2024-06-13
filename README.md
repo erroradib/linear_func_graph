@@ -19,7 +19,7 @@ This Python script plots the graph of linear functions in the form `y = mx + c` 
 2. Install dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r packages.txt
     ```
 
 ## Usage
