@@ -16,11 +16,7 @@ This Python script plots the graph of linear functions in the form `y = mx + c` 
     git clone https://github.com/erroradib/linear_func_graph.git
     ```
 
-2. Install dependencies:
 
-    ```bash
-    pip install -r packages.txt
-    ```
 
 ## Usage
 
