@@ -23,4 +23,4 @@ This Python script plots the graph of linear functions in the form `y = mx + c` 
 Run the script `linear_func_graph.py` to plot the linear functions. You can customize the functions by modifying the `m` and `c` values in the script.
 
 ```bash
-python linear_func_graph.py
+python main.py
